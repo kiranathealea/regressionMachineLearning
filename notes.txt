@@ -1,0 +1,242 @@
+daftar_kota = ['Bandung', 'Bantul', 'Bekasi', 'Bogor', 'Ciamis', 'Cianjur', 'Cirebon', 'DIY', 'Garut', 'Gunung Kidul', 'Indramayu', 'Karawang', 'Kulon Progo', 'Kuningan', 'Majalengka', 'Purwakarta', 'Sleman', 'Subang', 'Sukabumi', 'Sumedang', 'Tasikmalaya']
+
+Linear Regression maize:
+The RMSE of the linear regression model is 0.15562927980615376
+The R2 score of the linear regression model is 0.07767176407377252
+The RMSE of the linear regression model is 0.5748263997069092
+The R2 score of the linear regression model is 0.7533900746191545
+The RMSE of the linear regression model is 0.5751472971434093
+The R2 score of the linear regression model is 0.027064967556407304
+The RMSE of the linear regression model is 0.19366929444309341
+The R2 score of the linear regression model is 0.8417033655617703
+The RMSE of the linear regression model is 0.04497779029432463
+The R2 score of the linear regression model is 0.7854855025318834
+The RMSE of the linear regression model is 0.09058495324929672
+The R2 score of the linear regression model is 0.7265475583452023
+The RMSE of the linear regression model is 0.016630624883486662
+The R2 score of the linear regression model is 0.9613450031170941
+The RMSE of the linear regression model is 0.029160825340774684
+The R2 score of the linear regression model is 0.6151097343356735
+The RMSE of the linear regression model is 0.019334987197283875
+The R2 score of the linear regression model is 0.24833327308315434
+The RMSE of the linear regression model is 1.169711724188792
+The R2 score of the linear regression model is 0.44565060344313645
+The RMSE of the linear regression model is 0.014780655265052112
+The R2 score of the linear regression model is 0.06491219050226638
+The RMSE of the linear regression model is 0.046108540345768396
+The R2 score of the linear regression model is 0.7856171538905325
+The RMSE of the linear regression model is 0.10917480920426244
+The R2 score of the linear regression model is 0.24397932394832844
+The RMSE of the linear regression model is 0.06292770174252656
+The R2 score of the linear regression model is 0.48995507476866584
+The RMSE of the linear regression model is 0.18552385850489206
+The R2 score of the linear regression model is 0.8797156549105288
+The RMSE of the linear regression model is 0.030684042865261097
+The R2 score of the linear regression model is 0.16053506800937267
+The RMSE of the linear regression model is 0.039577306405296844
+The R2 score of the linear regression model is 0.03004321662965903
+The RMSE of the linear regression model is 0.6253510762852288
+The R2 score of the linear regression model is 0.5249205848804381
+The RMSE of the linear regression model is 1.4000645652927457
+The R2 score of the linear regression model is 0.10175772989607301
+
+Polynomial Regression degree 2 maize:
+The RMSE of the linear regression model is 0.15205135133435113
+The R2 score of the linear regression model is 0.09887615735875288
+The RMSE of the linear regression model is 0.5588436244154404
+The R2 score of the linear regression model is 0.7602469465791369
+The RMSE of the linear regression model is 0.5737510044770832
+The R2 score of the linear regression model is 0.02942697474545264
+The RMSE of the linear regression model is 0.0428598879019661
+The R2 score of the linear regression model is 0.9649682412135054
+The RMSE of the linear regression model is 0.044689111550773576
+The R2 score of the linear regression model is 0.7868623104007749
+The RMSE of the linear regression model is 0.08613502347127086
+The R2 score of the linear regression model is 0.7399807403400609
+The RMSE of the linear regression model is 0.01323394868600443
+The R2 score of the linear regression model is 0.969239986543501
+The RMSE of the linear regression model is 0.024489446178385003
+The R2 score of the linear regression model is 0.6767667123470922
+The RMSE of the linear regression model is 0.013722819010353783
+The R2 score of the linear regression model is 0.46651185520133587
+The RMSE of the linear regression model is 1.0724344856183319
+The R2 score of the linear regression model is 0.4917522004307623
+The RMSE of the linear regression model is 0.01071804998613569
+The R2 score of the linear regression model is 0.32193006981767924
+The RMSE of the linear regression model is 0.03522620640940127
+The R2 score of the linear regression model is 0.8362148458603269
+The RMSE of the linear regression model is 0.10523767793081704
+The R2 score of the linear regression model is 0.2712434214883145
+The RMSE of the linear regression model is 0.04815823300901566
+The R2 score of the linear regression model is 0.6096653512811041
+The RMSE of the linear regression model is 0.1273100395291273
+The R2 score of the linear regression model is 0.9174585692024513
+The RMSE of the linear regression model is 0.030644947503101694
+The R2 score of the linear regression model is 0.16160465279910874
+The RMSE of the linear regression model is 0.015100850497243856
+The R2 score of the linear regression model is 0.6299098219452662
+The RMSE of the linear regression model is 0.12804119648268475
+The R2 score of the linear regression model is 0.9027270615770753
+The RMSE of the linear regression model is 1.3760362900672165
+The R2 score of the linear regression model is 0.11717359929260207
+
+Polynomial Regression degree 3 maize:
+The RMSE of the linear regression model is 0.12501713699320252
+The R2 score of the linear regression model is 0.2590929189731517
+The RMSE of the linear regression model is 0.27287342012203414
+The R2 score of the linear regression model is 0.8829328405775687
+The RMSE of the linear regression model is 0.551342125072596
+The R2 score of the linear regression model is 0.06733445326220033
+The RMSE of the linear regression model is 0.03463403971785208
+The R2 score of the linear regression model is 0.9716916822560796
+The RMSE of the linear regression model is 0.03759757148604414
+The R2 score of the linear regression model is 0.8206842955028844
+The RMSE of the linear regression model is 0.06706198251057292
+The R2 score of the linear regression model is 0.7975572961962103
+The RMSE of the linear regression model is 0.012669208801248775
+The R2 score of the linear regression model is 0.9705526262451251
+The RMSE of the linear regression model is 0.022898069107965126
+The R2 score of the linear regression model is 0.6977711090419132
+The RMSE of the linear regression model is 0.013635425296214632
+The R2 score of the linear regression model is 0.46990937216836604
+The RMSE of the linear regression model is 1.032160802778261
+The R2 score of the linear regression model is 0.5108386909889372
+The RMSE of the linear regression model is 0.010294017383720704
+The R2 score of the linear regression model is 0.3487561956042248
+The RMSE of the linear regression model is 0.03498986230288739
+The R2 score of the linear regression model is 0.8373137338718685
+The RMSE of the linear regression model is 0.09969479676326774
+The R2 score of the linear regression model is 0.30962711822301037
+The RMSE of the linear regression model is 0.0476872520946065
+The R2 score of the linear regression model is 0.6134827706150898
+The RMSE of the linear regression model is 0.07680428530948542
+The R2 score of the linear regression model is 0.9502039617277972
+The RMSE of the linear regression model is 0.0270412379908812
+The R2 score of the linear regression model is 0.26019621629920797
+The RMSE of the linear regression model is 0.013520189644755891
+The R2 score of the linear regression model is 0.6686485046736454
+The RMSE of the linear regression model is 0.12086671009831847
+The R2 score of the linear regression model is 0.9081775212061131
+The RMSE of the linear regression model is 0.8422342120774498
+The R2 score of the linear regression model is 0.45964608392366924
+
+Linear Regression tomato:
+The RMSE of the linear regression model is 16.89953794276229
+The R2 score of the linear regression model is 0.8471701322715389
+The RMSE of the linear regression model is 33.94962977438414
+The R2 score of the linear regression model is 0.5980728568686924
+The RMSE of the linear regression model is 17.199975416264845
+The R2 score of the linear regression model is 0.7721307410826271
+The RMSE of the linear regression model is 0.8961569291882234
+The R2 score of the linear regression model is 0.8229489621906517
+The RMSE of the linear regression model is 18.732211364170485
+The R2 score of the linear regression model is 0.06967353250051034
+The RMSE of the linear regression model is 13.13375103932146
+The R2 score of the linear regression model is 0.7182122732990239
+The RMSE of the linear regression model is 0.7888513448069719
+The R2 score of the linear regression model is 0.001279269078982015
+The RMSE of the linear regression model is 10.25222184065165
+The R2 score of the linear regression model is 0.88475203008806
+The RMSE of the linear regression model is 0.8798478854199726
+The R2 score of the linear regression model is 0.10960976414657841
+The RMSE of the linear regression model is 0.12078595632670994
+The R2 score of the linear regression model is 0.31122777534824264
+The RMSE of the linear regression model is 340.54987212997025
+The R2 score of the linear regression model is 0.5944200202596549
+The RMSE of the linear regression model is 13.269344220179653
+The R2 score of the linear regression model is 0.7408383193053323
+The RMSE of the linear regression model is 15.607013876351413
+The R2 score of the linear regression model is 0.774895435656832
+The RMSE of the linear regression model is 7.514027145729401
+The R2 score of the linear regression model is 0.10702528328055627
+The RMSE of the linear regression model is 0.28877040365609047
+The R2 score of the linear regression model is 0.2663359856912969
+The RMSE of the linear regression model is 7.673149000132697
+The R2 score of the linear regression model is 0.9728791832365767
+The RMSE of the linear regression model is 1.4638548143021741
+The R2 score of the linear regression model is 0.7955072295101502
+The RMSE of the linear regression model is 158.93128386748262
+The R2 score of the linear regression model is 0.6531297807049129
+The RMSE of the linear regression model is 0.08565680167213723
+The R2 score of the linear regression model is 0.4876115475472633
+
+Polynomial Regression degree 2 tomato:
+The RMSE of the linear regression model is 8.417485412822046
+The R2 score of the linear regression model is 0.9238770203892587
+The RMSE of the linear regression model is 4.849072554767612
+The R2 score of the linear regression model is 0.9425921904973253
+The RMSE of the linear regression model is 8.668874512572396
+The R2 score of the linear regression model is 0.8851527421975498
+The RMSE of the linear regression model is 0.8802691233040925
+The R2 score of the linear regression model is 0.8260878683673265
+The RMSE of the linear regression model is 17.261567033509802
+The R2 score of the linear regression model is 0.14271239152751503
+The RMSE of the linear regression model is 7.462477791221581
+The R2 score of the linear regression model is 0.8398907786473855
+The RMSE of the linear regression model is 0.7835272937756388
+The R2 score of the linear regression model is 0.008019753420521636
+The RMSE of the linear regression model is 6.382974100254838
+The R2 score of the linear regression model is 0.9282472796152347
+The RMSE of the linear regression model is 0.6521903976884559
+The R2 score of the linear regression model is 0.33999504727799956
+The RMSE of the linear regression model is 0.049802215577133435
+The R2 score of the linear regression model is 0.7160068615686974
+The RMSE of the linear regression model is 280.0205343364362
+The R2 score of the linear regression model is 0.666507810052243
+The RMSE of the linear regression model is 4.784077568149873
+The R2 score of the linear regression model is 0.9065628592820849
+The RMSE of the linear regression model is 10.212821264692309
+The R2 score of the linear regression model is 0.8526974666828034
+The RMSE of the linear regression model is 2.750365138269605
+The R2 score of the linear regression model is 0.6731437772862976
+The RMSE of the linear regression model is 0.1627523012383682
+The R2 score of the linear regression model is 0.5865036542777913
+The RMSE of the linear regression model is 6.160271694075794
+The R2 score of the linear regression model is 0.9782264621962843
+The RMSE of the linear regression model is 1.2183791202811305
+The R2 score of the linear regression model is 0.829798884849079
+The RMSE of the linear regression model is 59.81287231213777
+The R2 score of the linear regression model is 0.8694573929643743
+The RMSE of the linear regression model is 0.07505027851528574
+The R2 score of the linear regression model is 0.5510584645480303
+
+Polynomial Regression degree 3 tomato: 
+The RMSE of the linear regression model is 8.398080818319622
+The R2 score of the linear regression model is 0.9240525045723869
+The RMSE of the linear regression model is 4.38461671811163
+The R2 score of the linear regression model is 0.9480908486205032
+The RMSE of the linear regression model is 8.363748546350498
+The R2 score of the linear regression model is 0.8891951216845393
+The RMSE of the linear regression model is 0.78768054711067
+The R2 score of the linear regression model is 0.8443803157840806
+The RMSE of the linear regression model is 8.842152214076542
+The R2 score of the linear regression model is 0.5608586688195906
+The RMSE of the linear regression model is 5.192815531746027
+The R2 score of the linear regression model is 0.8885869178205595
+The RMSE of the linear regression model is 0.4738304376061791
+The R2 score of the linear regression model is 0.40010968594537333
+The RMSE of the linear regression model is 5.435931857272236
+The R2 score of the linear regression model is 0.938893234962379
+The RMSE of the linear regression model is 0.4198328611167596
+The R2 score of the linear regression model is 0.5751366953046237
+The RMSE of the linear regression model is 0.027449047215255266
+The R2 score of the linear regression model is 0.8434740106384231
+The RMSE of the linear regression model is 160.54606476073837
+The R2 score of the linear regression model is 0.8087966696748555
+The RMSE of the linear regression model is 3.5186544308426773
+The R2 score of the linear regression model is 0.9312776591706668
+The RMSE of the linear regression model is 8.962536493356787
+The R2 score of the linear regression model is 0.8707306927045244
+The RMSE of the linear regression model is 2.0393823879182666
+The R2 score of the linear regression model is 0.7576376988245286
+The RMSE of the linear regression model is 0.0581765979529245
+The R2 score of the linear regression model is 0.8521937295076886
+The RMSE of the linear regression model is 5.828090980807776
+The R2 score of the linear regression model is 0.9794005580279604
+The RMSE of the linear regression model is 1.0779790092562773
+The R2 score of the linear regression model is 0.8494120373284397
+The RMSE of the linear regression model is 38.60549485880371
+The R2 score of the linear regression model is 0.9157428535036932
+The RMSE of the linear regression model is 0.07396760089062987
+The R2 score of the linear regression model is 0.5575349089374205
+
