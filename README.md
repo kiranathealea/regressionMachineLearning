@@ -1,5 +1,6 @@
 # Linear Regression and Polynomial Regression for predicting agricultural data
-> This is a part of agricultural data visualization project of DEIE TKEE165001 Special Topics in Electrical Engineering
+> This is a part of agricultural data visualization project of DEIE TKEE165001 Special Topics in Electrical Engineering.
+
 A group project by Thea Kirana, Vicko Pranowo, and Sudiro.
 
 ## Reference
